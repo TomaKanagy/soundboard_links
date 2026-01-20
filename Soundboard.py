@@ -1,6 +1,6 @@
 import argparse
 import csv
-#for whatever reason, plyance thinks vlc is installed in the wrong location, but everything works so I just ignore the error message.
+#for whatever reason, plyance thinks vlc is installed in the wrong location, but everything works so just ignore the error message.
 import vlc #type: ignore
 
 def main():
