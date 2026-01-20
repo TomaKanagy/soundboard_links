@@ -1,0 +1,4 @@
+#This folder contains the soundbites that I personally added to my soundboard. It's a lot of clips of 70's soft rock bands bc I'm hip with the kids like that 😎
+
+#Soundboard.py works by reading soundboard.csv, so if a file is not listed in soundboard.csv then soundboard.py doesn't know about it. 
+#The soundboard.csv that is displayed in this folder is just an example of what one should look like; soundboard.py will generate its own soundboard.csv if you use the --add <your_direct_link_here> command-line argument.
